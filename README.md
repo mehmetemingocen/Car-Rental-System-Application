@@ -1,4 +1,4 @@
-# Car Rental System Application
+# Car Rental System Application (Swing)
 
 ## General Description
 This project is designed as a car rental system. Users registered in the database can log in to the system. If they are not registered, they can log in after registration (with personal information) and perform car rental transactions, including specifying car brand, model, rental days, fuel type, and total cost.
